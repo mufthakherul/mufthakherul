@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [S6742](S6742)
 
-- 🌱 I’m currently learning **S6742**
+- 🌱 I’m currently learning **Cyber Security**
 
-- 👯 I’m looking to collaborate on [S6742](S6742)
+<!-- - 👯 I’m looking to collaborate on [S6742](S6742)
 
-- 🤝 I’m looking for help with [S6742](S6742)
+- 🤝 I’m looking for help with [S6742](S6742) -->
 
-- 👨‍💻 All of my projects are available at [S6742](S6742)
+- 👨‍💻 All of my projects are available at [S6742](S6742.me)
 
 - 📝 I regularly write articles on [S6742](S6742)
 
