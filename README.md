@@ -32,7 +32,7 @@
 <a href="https://stackoverflow.com/users/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mufthakherul" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mufthakherul" height="30" width="40" /></a>
 <a href="https://kaggle.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://fb.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mufthakherul" height="30" width="40" /></a>
+<a href="https://facebook.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mufthakherul" height="30" width="40" /></a>
 <a href="https://instagram.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mufthakherul" height="30" width="40" /></a>
 <a href="https://dribbble.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mufthakherul" height="30" width="40" /></a>
 <a href="https://www.behance.net/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mufthakherul" height="30" width="40" /></a>
@@ -47,7 +47,6 @@
 <a href="https://auth.geeksforgeeks.org/user/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mufthakherul" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mufthakherul" height="30" width="40" /></a>
 <a href="https://discord.gg/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mufthakherul" height="30" width="40" /></a>
 </p>
 
 
