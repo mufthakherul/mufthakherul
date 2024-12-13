@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [S6742](S6742) -->
 
-- 👨‍💻 All of my projects are available at <a href="https://s6742.me" target="_blank">s6742</a>
+- 👨‍💻 All of my projects are available at <a href="https://s6742.me" target="_blank"><i class="fab fa-telegram"></i>s6742</a>
 
 - 📝 I regularly write articles on [S6742](S6742)
 
