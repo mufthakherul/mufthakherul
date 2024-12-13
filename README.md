@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [S6742](S6742) -->
 
-- 👨‍💻 All of my projects are available at [S6742](S6742.me)
+- 👨‍💻 All of my projects are available at <a href="https://www.s6742.me" />s6742</a>
 
 - 📝 I regularly write articles on [S6742](S6742)
 
@@ -55,4 +55,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mufthakherul&show_icons=true&locale=en" alt="mufthakherul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mufthakherul&" alt="mufthakherul" /></p>
