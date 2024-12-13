@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with [S6742](S6742) -->
 
-- 👨‍💻 All of my projects are available at <a href="https://s6742.me" target="_blank"><i class="fab fa-telegram"></i>s6742</a>
+- 👨‍💻 All of my projects are available at <a href="https://s6742.me" target="_blank"></i>s6742</a>
 
-- 📝 I regularly write articles on [S6742](S6742)
+- 📝 I regularly write articles on <a href="https://s6742.me" target="_blank"></i>s6742</a>
 
-- 💬 Ask me about **S6742**
+<!-- - 💬 Ask me about **S6742 or any ** -->
 
 - 📫 How to reach me **mufthakherul@s6742.onmicrosoft.com**
 
-- 📄 Know about my experiences [S6742](S6742)
+- 📄 Know about my experiences <a href="https://s6742.me" target="_blank"></i>s6742</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -54,4 +54,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mufthakherul&show_icons=true&locale=en&layout=compact" alt="mufthakherul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mufthakherul&show_icons=true&locale=en" alt="mufthakherul" /></p>
+
+<a href="https://x.com/mufthakherul" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://t.me/mufthakherul" target="_blank"><i class="fab fa-telegram"></i></a>
+            <a href="https://facebook.com/mufthakherul" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://instagram.com/mufthakherul" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://github.com/mufthakherul" target="_blank"><i class="fab fa-github"></i></a>
 
