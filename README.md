@@ -88,16 +88,6 @@
 
 ---
 
-## 🧩 Easter Eggs
-
-- 🕶️ Type `gh mufthakherul` in your terminal and let me know what you find.
-- 🗝️ Hidden on my repos: `mufthak{gl1tch3d_k3y_t0_s3lf_upgr4d3}`
-- 🕵️ Look for the `### hidden/` folders in my scripts.
-- 🎲 Sometimes I leave encrypted challenges inside my commits.  
-- ⚡ Check the alt text on images here 👀
-
----
-
 ## 🎯 Let’s Collaborate
 
 - 🛠️ Building advanced security scripts
