@@ -68,7 +68,7 @@
 - 💡 Maintaining a growing repository of **ethical hacking tools & notes**
 - 🛡️ Practicing **advanced enumeration and OSINT**
 - 🧪 Experimenting with **AI-powered cybersecurity analysis**
-- 📝 Preparing **advanced OSINT/CTF labs** for community learning
+<!-- - 📝 Preparing **advanced OSINT/CTF labs** for community learning -->
 
 ---
 
