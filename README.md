@@ -1,55 +1,134 @@
-<h1 align="center">Hi 👋, I'm Md. Mufthakherul Islam Miraz</h1>
-<h3 align="center">A Learner, Video editor, frontend developer ........ from Bangladesh</h3>
+<!-- 
+███████╗███╗   ███╗██████╗ ██╗   ██╗████████╗██╗  ██╗ █████╗  ██╗     
+██╔════╝████╗ ████║██╔══██╗██║   ██║╚══██╔══╝██║  ██║██╔══██╗██║     
+█████╗  ██╔████╔██║██████╔╝██║   ██║   ██║   ███████║███████║██║     
+██╔══╝  ██║╚██╔╝██║██╔═══╝ ██║   ██║   ██║   ██╔══██║██╔══██║██║     
+███████╗██║ ╚═╝ ██║██║     ╚██████╔╝   ██║   ██║  ██║██║  ██║███████╗
+╚══════╝╚═╝     ╚═╝╚═╝      ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+-->
 
-- 🔭 I’m currently working on [S6742](S6742)
-
-- 🌱 I’m currently learning **Cyber Security**
-
-<!-- - 👯 I’m looking to collaborate on [S6742](S6742)
-
-- 🤝 I’m looking for help with [S6742](S6742) -->
-
-- 👨‍💻 All of my projects are available at <a href="https://s6742.me">s6742</a>
-
-- 📝 I regularly write articles on <a href="https://s6742.me">s6742</a>
-
-<!-- - 💬 Ask me about **S6742 or any ** -->
-
-- 📫 How to reach me **mufthakherul@s6742.onmicrosoft.com**
-
-- 📄 Know about my experiences <a href="https://s6742.me">s6742</a>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://dev.to/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://twitter.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://kaggle.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://facebook.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://instagram.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://dribbble.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://www.behance.net/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://hashnode.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://medium.com/@mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mufthakherul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mufthakherul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mufthakherul" height="30" width="40" /></a>
-<a href="https://discord.gg/mufthakherul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mufthakherul" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-light.png#gh-light-mode-only" alt="MD. Mufthakherul Miraz Banner" width="100%" />
+  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-dark.png#gh-dark-mode-only" alt="MD. Mufthakherul Miraz Banner" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm <code>MD. Mufthakherul Miraz</code> 🕵️‍♂️</h1>
+<h3 align="center">💻 Ethical Hacker | AI Artisan | Builder of Useful Chaos</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mufthakherul&show_icons=true&locale=en&layout=compact" alt="mufthakherul" /></p>
+<p align="center">
+  <a href="https://github.com/mufthakherul">
+    <img src="https://img.shields.io/github/followers/mufthakherul?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/mufthakherul">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" />
+  </a>
+  <a href="mailto:miraz@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&style=flat" />
+  </a>
+  <!-- Hidden Easter Egg: Hovering shows hacker mode -->
+  <a href="https://tryhackme.com/p/mufthakherul" title="🐍 I might be lurking here...">
+    <img src="https://img.shields.io/badge/TryHackMe-Visit-red?logo=tryhackme&style=flat" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mufthakherul&show_icons=true&locale=en" alt="mufthakherul" /></p>
+---
+
+## 🧩 About Me
+
+⚡ **Driven by curiosity and building practical security & AI tools**  
+🎓 **Computer Science & Ethical Hacking Student**  
+🤖 Exploring **AI + Automation + Cybersecurity intersections**  
+🛠️ Building **SYSTEM M** – a modular AI & security toolkit  
+🕵️ Practicing advanced **red teaming & penetration testing**  
+🌍 Advocating **ethical hacking and AI literacy globally**
+
+> *“Security is not a product, but a process.”* – Bruce Schneier
+
+---
+
+## 🛠️ Tools of the Trade
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-3776AB?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?logoColor=white&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-009688?logo=openai&logoColor=white&style=flat)
+
+---
+
+## 🚀 Current Missions
+
+- 🔥 Building **SYSTEM M** for modular personal security & AI workflow automation
+- 💡 Maintaining a growing repository of **ethical hacking tools & notes**
+- 🛡️ Practicing **advanced enumeration and OSINT**
+- 🧪 Experimenting with **AI-powered cybersecurity analysis**
+- 📝 Preparing **advanced OSINT/CTF labs** for community learning
+
+---
+
+## 📈 Stats, but Hacker Edition
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mufthakherul&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mufthakherul&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufthakherul&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🧩 Easter Eggs
+
+- 🕶️ Type `gh mufthakherul` in your terminal and let me know what you find.
+- 🗝️ Hidden on my repos: `mufthak{gl1tch3d_k3y_t0_s3lf_upgr4d3}`
+- 🕵️ Look for the `### hidden/` folders in my scripts.
+- 🎲 Sometimes I leave encrypted challenges inside my commits.  
+- ⚡ Check the alt text on images here 👀
+
+---
+
+## 🎯 Let’s Collaborate
+
+- 🛠️ Building advanced security scripts
+- 🤖 AI workflow and tool integrations
+- 🕸️ Dark web threat analysis (educational/ethical only)
+- 📚 Knowledge sharing for students and enthusiasts globally
+
+> 📨 **Feel free to reach out if you have ideas or want to hack together (ethically)!**
+
+---
+
+## 🌐 Contact & Links
+
+📩 **Email:** [miraz@example.com](mailto:miraz@example.com)  
+🔗 **LinkedIn:** [linkedin.com/in/mufthakherul](https://linkedin.com/in/mufthakherul)  
+🌐 **Personal Site:** *Coming Soon*  
+🐍 **TryHackMe:** [tryhackme.com/p/mufthakherul](https://tryhackme.com/p/mufthakherul)  
+
+---
+
+<p align="center">
+  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/logo.png" alt="Logo" width="120px" />
+</p>
+
+<p align="center">
+  <b>⚡ If you find my work interesting, consider following or starring projects!</b>
+</p>
+
+<!--
+    Hidden vault keys:
+    mufthak{pr0f1l3_r34dm3_3gg}
+    mufthak{ch3ck_my_gists}
+-->
+
