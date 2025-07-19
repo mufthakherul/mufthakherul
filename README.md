@@ -101,9 +101,9 @@
 
 ## 🌐 Contact & Links
 
-📩 **Email:** [miraz@example.com](mailto:miraz@example.com)  
+📩 **Email:** [mufthakherul@outlook.com](mailto:mufthakherul@outlook.com)  
 🔗 **LinkedIn:** [linkedin.com/in/mufthakherul](https://linkedin.com/in/mufthakherul)  
-🌐 **Personal Site:** *Coming Soon*  
+🌐 **Personal Site:** [Click Here](https://s6742.me)  
 🐍 **TryHackMe:** [tryhackme.com/p/mufthakherul](https://tryhackme.com/p/mufthakherul)  
 
 ---
