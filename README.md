@@ -103,7 +103,7 @@
 
 📩 **Email:** [mufthakherul@outlook.com](mailto:mufthakherul@outlook.com)  
 🔗 **LinkedIn:** [linkedin.com/in/mufthakherul](https://linkedin.com/in/mufthakherul)  
-🌐 **Personal Site:** [Click Here](https://mufthakherul.me)  
+🌐 **Personal Site:** [Click Here](https://www.mufthakherul.me)  
 🐍 **TryHackMe:** [tryhackme.com/p/mufthakherul](https://tryhackme.com/p/mufthakherul)  
 
 ---
