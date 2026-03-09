@@ -1,19 +1,19 @@
 <!-- ============================================================
-     MD. MUFTHAKHERUL MIRAZ — GitHub Profile README
+     MD. MUFTHAKHERUL ISLAM MIRAZ — GitHub Profile README
      Ethical Hacker · AI Artisan · Builder
      ============================================================ -->
 
 <!-- Banner: light / dark mode aware -->
 <p align="center">
   <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-light.png#gh-light-mode-only"
-       alt="MD. Mufthakherul Miraz — Banner" width="100%" />
+       alt="MD. Mufthakherul Islam Miraz — Banner" width="100%" />
   <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-dark.png#gh-dark-mode-only"
-       alt="MD. Mufthakherul Miraz — Banner" width="100%" />
+       alt="MD. Mufthakherul Islam Miraz — Banner" width="100%" />
 </p>
 
 <!-- Headline -->
 <h1 align="center">
-  Hey there, I’m <code>Mufthakherul Miraz</code>&nbsp;🕵️‍♂️
+  Hey there, I’m <code>Mufthakherul Islam</code>&nbsp;🕵️‍♂️
 </h1>
 
 <p align="center">
