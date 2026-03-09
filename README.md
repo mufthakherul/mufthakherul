@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-Profile-CC0000?logo=tryhackme&logoColor=white&style=flat-square" alt="TryHackMe" />
   </a>
   &nbsp;
-  <a href="https://github.com/mufthakherul?tab=repositories">
+  <a href="https://github.com/mufthakherul">
     <img src="https://komarev.com/ghpvc/?username=mufthakherul&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   </a>
 </p>
