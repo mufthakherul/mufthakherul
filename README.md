@@ -1,33 +1,49 @@
-<!-- 
-███████╗███╗   ███╗██████╗ ██╗   ██╗████████╗██╗  ██╗ █████╗  ██╗     
-██╔════╝████╗ ████║██╔══██╗██║   ██║╚══██╔══╝██║  ██║██╔══██╗██║     
-█████╗  ██╔████╔██║██████╔╝██║   ██║   ██║   ███████║███████║██║     
-██╔══╝  ██║╚██╔╝██║██╔═══╝ ██║   ██║   ██║   ██╔══██║██╔══██║██║     
-███████╗██║ ╚═╝ ██║██║     ╚██████╔╝   ██║   ██║  ██║██║  ██║███████╗
-╚══════╝╚═╝     ╚═╝╚═╝      ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
--->
+<!-- ============================================================
+     MD. MUFTHAKHERUL MIRAZ — GitHub Profile README
+     Ethical Hacker · AI Artisan · Builder
+     ============================================================ -->
 
+<!-- Banner: light / dark mode aware -->
 <p align="center">
-  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-light.png#gh-light-mode-only" alt="MD. Mufthakherul Miraz Banner" width="100%" />
-  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-dark.png#gh-dark-mode-only" alt="MD. Mufthakherul Miraz Banner" width="100%" />
+  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-light.png#gh-light-mode-only"
+       alt="MD. Mufthakherul Miraz — Banner" width="100%" />
+  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-dark.png#gh-dark-mode-only"
+       alt="MD. Mufthakherul Miraz — Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm <code>MD. Mufthakherul Miraz</code> 🕵️‍♂️</h1>
-<h3 align="center">💻 Ethical Hacker | AI Artisan | Builder of Useful Chaos</h3>
+<!-- Headline -->
+<h1 align="center">
+  Hey there, I’m <code>Mufthakherul Miraz</code>&nbsp;🕵️‍♂️
+</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+AI+Artisan+%7C+Builder;Red+Team+%7C+OSINT+%7C+Penetration+Testing;AI+%2B+Automation+%2B+Cybersecurity;Building+SYSTEM+M+%E2%80%94+One+Module+at+a+Time" alt="Typing SVG" />
+</p>
+
+<!-- Social badges -->
+<p align="center">
   <a href="https://github.com/mufthakherul">
-    <img src="https://img.shields.io/github/followers/mufthakherul?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/mufthakherul?label=Followers&style=social" alt="GitHub Followers" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/mufthakherul">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
-  <a href="mailto:miraz@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&style=flat" />
+  &nbsp;
+  <a href="mailto:mufthakherul@outlook.com">
+    <img src="https://img.shields.io/badge/Email-mufthakherul%40outlook.com-0078D4?logo=microsoftoutlook&logoColor=white&style=flat-square" alt="Email" />
   </a>
-  <!-- Hidden Easter Egg: Hovering shows hacker mode -->
-  <a href="https://tryhackme.com/p/mufthakherul" title="🐍 I might be lurking here...">
-    <img src="https://img.shields.io/badge/TryHackMe-Visit-red?logo=tryhackme&style=flat" />
+  &nbsp;
+  <a href="https://www.mufthakherul.me">
+    <img src="https://img.shields.io/badge/Website-mufthakherul.me-22C55E?logo=googlechrome&logoColor=white&style=flat-square" alt="Personal Website" />
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/mufthakherul">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-CC0000?logo=tryhackme&logoColor=white&style=flat-square" alt="TryHackMe" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mufthakherul?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=mufthakherul&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
@@ -35,47 +51,87 @@
 
 ## 🧩 About Me
 
-⚡ **Driven by curiosity and building practical security & AI tools**  
-🎓 **Computer Science & Ethical Hacking Student**  
-🤖 Exploring **AI + Automation + Cybersecurity intersections**  
-🛠️ Building **SYSTEM M** – a modular AI & security toolkit  
-🕵️ Practicing advanced **red teaming & penetration testing**  
-🌍 Advocating **ethical hacking and AI literacy globally**
+> *“Security is not a product, but a process.” — Bruce Schneier*
 
-> *“Security is not a product, but a process.”* – Bruce Schneier
+I’m a **Computer Science & Ethical Hacking student** obsessed with the intersection of **AI, automation, and cybersecurity**. I build practical tools, break things legally, and share what I learn with the community.
 
----
-
-## 🛠️ Tools of the Trade
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-3776AB?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?logoColor=white&style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-009688?logo=openai&logoColor=white&style=flat)
+| 🔍 Focus Area | 📌 Details |
+|---|---|
+| 🛡️ **Cybersecurity** | Red teaming, penetration testing, OSINT, network enumeration |
+| 🤖 **AI & Automation** | LLM pipelines, AI-powered security analysis, workflow bots |
+| 🛠️ **Current Project** | **SYSTEM M** — modular AI & security toolkit |
+| 🎓 **Learning** | Advanced exploit development, threat intelligence, MLSecOps |
+| 🌍 **Mission** | Promoting ethical hacking & AI literacy globally |
 
 ---
 
-## 🚀 Current Missions
+## 🔧 Tech Stack
 
-- 🔥 Building **SYSTEM M** for modular personal security & AI workflow automation
-- 💡 Maintaining a growing repository of **ethical hacking tools & notes**
-- 🛡️ Practicing **advanced enumeration and OSINT**
+### 💻 Languages & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square)
+
+### 🛡️ Security & Hacking Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?logo=kalilinux&logoColor=white&style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-214478?logo=nmap&logoColor=white&style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white&style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white&style=flat-square)
+
+### 🤖 AI / ML
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-009688?logo=chainlink&logoColor=white&style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=flat-square)
+
+### 🧰 Dev & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+
+---
+
+## 🚀 Featured Project — SYSTEM M
+
+> A modular, extensible **AI & security automation toolkit** built for real-world workflows.
+
+| Module | Description | Status |
+|--------|-------------|--------|
+| 🔍 **OSINT Engine** | Automated reconnaissance and footprinting | 🔨 In Progress |
+| 🤖 **AI Analyst** | LLM-powered threat analysis and log review | 🔨 In Progress |
+| 🛡️ **Vuln Scanner** | Lightweight custom vulnerability discovery | 📋 Planned |
+| 📡 **Network Mapper** | Nmap wrapper with structured output & reporting | 📋 Planned |
+| 💬 **SecBot** | CLI chatbot for security queries and guidance | 📋 Planned |
+
+> 🔗 Stay tuned — SYSTEM M modules will be open-sourced progressively.
+
+---
+
+## 🎯 Current Missions
+
+- 🔥 Shipping **SYSTEM M** modules — one at a time
+- 🛡️ Sharpening **advanced enumeration, OSINT & red team** skills
 - 🧪 Experimenting with **AI-powered cybersecurity analysis**
-<!-- - 📝 Preparing **advanced OSINT/CTF labs** for community learning -->
+- 📚 Building **CTF write-ups and learning resources** for the community
+- 🌐 Growing a global network of **ethical hackers and security researchers**
 
 ---
 
-## 📈 Stats, but Hacker Edition
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufthakherul&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mufthakherul&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufthakherul&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
@@ -83,42 +139,50 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufthakherul&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mufthakherul&theme=radical&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mufthakherul&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🎯 Let’s Collaborate
+## 🤝 Let's Collaborate
 
-- 🛠️ Building advanced security scripts
-- 🤖 AI workflow and tool integrations
-- 🕸️ Dark web threat analysis (educational/ethical only)
-- 📚 Knowledge sharing for students and enthusiasts globally
+I'm open to collaborating on:
 
-> 📨 **Feel free to reach out if you have ideas or want to hack together (ethically)!**
+- 🔐 **Security tooling** — scripts, automation, recon frameworks
+- 🤖 **AI + cybersecurity** integrations and research
+- 📖 **Educational content** — CTF write-ups, tutorials, workshops
+- 🕸️ **Threat analysis** — OSINT, dark-web monitoring (educational/ethical only)
+
+> 💬 Have an idea or want to hack together (ethically)? **Reach out anytime!**
 
 ---
 
-## 🌐 Contact & Links
+## 📬 Connect With Me
 
-📩 **Email:** [mufthakherul@outlook.com](mailto:mufthakherul@outlook.com)  
-🔗 **LinkedIn:** [linkedin.com/in/mufthakherul](https://linkedin.com/in/mufthakherul)  
-🌐 **Personal Site:** [Click Here](https://www.mufthakherul.me)  
-🐍 **TryHackMe:** [tryhackme.com/p/mufthakherul](https://tryhackme.com/p/mufthakherul)  
+<p align="center">
+  <a href="mailto:mufthakherul@outlook.com">
+    <img src="https://img.shields.io/badge/Email-mufthakherul%40outlook.com-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <br/><br/>
+  <a href="https://linkedin.com/in/mufthakherul">
+    <img src="https://img.shields.io/badge/LinkedIn-mufthakherul-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.mufthakherul.me">
+    <img src="https://img.shields.io/badge/Website-mufthakherul.me-22C55E?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/mufthakherul">
+    <img src="https://img.shields.io/badge/TryHackMe-mufthakherul-CC0000?logo=tryhackme&logoColor=white&style=for-the-badge" alt="TryHackMe" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/logo.png" alt="Logo" width="120px" />
+  <i>⚡ If you find my work interesting, give a ⭐ to projects you like — it means a lot!</i>
 </p>
-
-<p align="center">
-  <b>⚡ If you find my work interesting, consider following or starring projects!</b>
-</p>
-
-<!--
-    Hidden vault keys:
-    mufthak{pr0f1l3_r34dm3_3gg}
-    mufthak{ch3ck_my_gists}
--->
-
