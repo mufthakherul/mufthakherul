@@ -86,7 +86,7 @@ I’m a **Computer Science & Ethical Hacking student** obsessed with the interse
 ### 🤖 AI / ML
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-009688?logo=chainlink&logoColor=white&style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-009688?logoColor=white&style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=flat-square)
 
 ### 🧰 Dev & Infrastructure
