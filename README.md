@@ -143,7 +143,7 @@ I’m a **Computer Science & Ethical Hacking student** obsessed with the interse
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mufthakherul&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mufthakherul&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
