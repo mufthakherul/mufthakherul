@@ -6,11 +6,15 @@
      ============================================================ -->
 
 <p align="center">
-  <img src="./assets/banner-light.png#gh-light-mode-only" alt="MD. MUFTHAKHERUL ISLAM MIRAZ — Professional Banner (Light)" width="100%" />
-  <img src="./assets/banner-dark.png#gh-dark-mode-only" alt="MD. MUFTHAKHERUL ISLAM MIRAZ — Professional Banner (Dark)" width="100%" />
+  <img src="./assets/banner-light.svg#gh-light-mode-only" alt="MD. MUFTHAKHERUL ISLAM MIRAZ — Professional Banner (Light)" width="100%" />
+  <img src="./assets/banner-dark.svg#gh-dark-mode-only" alt="MD. MUFTHAKHERUL ISLAM MIRAZ — Professional Banner (Dark)" width="100%" />
 </p>
 
 <h1 align="center">MD. Mufthakherul Islam Miraz ⚔️</h1>
+
+<p align="center">
+  <sub>Cybersecurity Engineer • Ethical Hacker • AI Systems Builder</sub>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=780&lines=Cybersecurity+Engineer+%7C+Ethical+Hacker+%7C+AI+Systems+Builder;Red+Team+%2B+OSINT+%2B+Automation+%2B+Secure+Engineering;Building+production-grade+tools+with+real-world+impact;From+local+prototypes+to+scalable+security+platforms" alt="Typing Intro" />
@@ -34,6 +38,10 @@
   <a href="#-connect">Contact</a>
 </p>
 
+<p align="center">
+  <sub>— Scroll for projects, insights, workflow, and collaboration —</sub>
+</p>
+
 ---
 
 ## 🧠 Executive Snapshot
@@ -54,6 +62,7 @@ I’m **MD. MUFTHAKHERUL ISLAM MIRAZ**, a cybersecurity engineer and ethical hac
 ### 1) SYSTEM M (Core Personal Initiative)
 A modular AI + cybersecurity ecosystem with independent components (OSINT, analysis, scanning, and automation modules) designed for progressive open-source release.
 
+
 ### 2) Cross-Project Security Engineering
 I’m actively shipping and evolving multiple repositories that cover:
 - offline diagnostics,
@@ -67,6 +76,10 @@ I’m actively shipping and evolving multiple repositories that cover:
 
 > Based on local active repositories and latest commit activity.
 
+<p align="center">
+  <sub>Snapshot view of current momentum across core repositories.</sub>
+</p>
+
 | Project | Focus Domain | Stage | Last Active |
 |---|---|---|---|
 | [Inspecta Nexus](https://github.com/mufthakherul/inspecta-nexus) | Offline diagnostics + evidence verification | Active modernization | 2026-03-30 |
@@ -78,6 +91,10 @@ I’m actively shipping and evolving multiple repositories that cover:
 ---
 
 ## 🧩 Flagship Project Highlights
+
+<p align="center">
+  <sub>What each flagship project is, why it exists, and how it is built.</sub>
+</p>
 
 ### 🔬 Inspecta Nexus
 **What it is:** An offline-first device diagnostics platform built for trust and transparency.
@@ -119,6 +136,10 @@ I’m actively shipping and evolving multiple repositories that cover:
 
 ## ⚙️ Technical Arsenal
 
+<p align="center">
+  <sub>Core technologies I actively use across engineering and security work.</sub>
+</p>
+
 ### Languages & Core Development
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
@@ -159,6 +180,10 @@ I’m actively shipping and evolving multiple repositories that cover:
 > **Note:** If your GitHub profile visibility is private, some widgets can show reduced or partial stats.
 
 <p align="center">
+  <sub>Trend cards + activity graph for visual contribution context.</sub>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufthakherul&theme=github_dark" alt="Profile Details" />
 </p>
 
@@ -181,6 +206,10 @@ I’m actively shipping and evolving multiple repositories that cover:
 ## 🌟 Project Spotlight Cards
 
 > Priority repositories with active development and practical production direction.
+
+<p align="center">
+  <sub>Quick access to the projects that represent current strategic focus.</sub>
+</p>
 
 | Project | Snapshot | Quick Links |
 |---|---|---|
@@ -231,6 +260,10 @@ My execution workflow across projects follows a consistent lifecycle:
 
 This keeps projects both fast-moving and production-minded.
 
+<p align="center">
+  <sub>Build fast, validate deeply, document clearly.</sub>
+</p>
+
 ---
 
 ## ✅ Quality, Delivery & Design Principles
@@ -271,6 +304,10 @@ If you want to help scale these projects faster, you’re highly welcome.
 - Share project links with security/dev communities
 
 <p align="center">
+  <sub>Every star, issue, test report, and PR helps accelerate delivery.</sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/mufthakherul?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-Repositories-181717?logo=github&logoColor=white&style=for-the-badge" alt="Explore Repositories" />
   </a>
@@ -305,6 +342,10 @@ If your idea is ambitious and ethical, we should talk.
 ---
 
 ## 📬 Connect
+
+<p align="center">
+  <sub>Open to ethical collaborations, practical research, and high-impact builds.</sub>
+</p>
 
 <p align="center">
   <a href="mailto:mufthakherul@outlook.com">
