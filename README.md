@@ -6,11 +6,8 @@
      ============================================================ -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mufthakherul/mufthakherul/main/assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mufthakherul/mufthakherul/main/assets/banner-light.svg" />
-    <img src="https://raw.githubusercontent.com/mufthakherul/mufthakherul/main/assets/banner-light.svg" alt="MD. MUFTHAKHERUL ISLAM MIRAZ — Professional Banner" width="100%" />
-  </picture>
+  <img src="./assets/banner-light.png#gh-light-mode-only" alt="MD. MUFTHAKHERUL ISLAM MIRAZ — Professional Banner (Light)" width="100%" />
+  <img src="./assets/banner-dark.png#gh-dark-mode-only" alt="MD. MUFTHAKHERUL ISLAM MIRAZ — Professional Banner (Dark)" width="100%" />
 </p>
 
 <h1 align="center">MD. Mufthakherul Islam Miraz ⚔️</h1>
@@ -157,19 +154,22 @@ I’m actively shipping and evolving multiple repositories that cover:
 
 ## 📈 GitHub Insights
 
-> Reliability-first dashboard using stable public badges and activity sources.
+> Visual dashboard for contribution and language trends.
+>
+> **Note:** If your GitHub profile visibility is private, some widgets can show reduced or partial stats.
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mufthakherul?style=for-the-badge&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mufthakherul/inspecta-nexus?style=for-the-badge&label=Inspecta%20Stars" alt="Inspecta Stars" />
-  <img src="https://img.shields.io/github/last-commit/mufthakherul/hacker_ai?style=for-the-badge&label=CosmicSec%20Last%20Commit" alt="CosmicSec Last Commit" />
-  <img src="https://img.shields.io/github/issues/mufthakherul/Let-s-connect?style=for-the-badge&label=Milonexa%20Open%20Issues" alt="Milonexa Open Issues" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufthakherul&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/mufthakherul/mufthakherul.github.io?style=flat-square&label=Portfolio%20Last%20Commit" alt="Portfolio Last Commit" />
-  <img src="https://img.shields.io/github/repo-size/mufthakherul/inspecta-nexus?style=flat-square&label=Inspecta%20Repo%20Size" alt="Inspecta Repo Size" />
-  <img src="https://img.shields.io/github/license/mufthakherul/hacker_ai?style=flat-square&label=CosmicSec%20License" alt="CosmicSec License" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mufthakherul&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mufthakherul&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mufthakherul&theme=github_dark" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mufthakherul&theme=github_dark&utcOffset=6" alt="Productive Time" />
 </p>
 
 <p align="center">
