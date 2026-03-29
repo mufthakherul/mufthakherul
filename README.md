@@ -1,81 +1,127 @@
+<!-- markdownlint-disable MD012 MD022 MD032 MD033 MD041 MD060 -->
 <!-- ============================================================
      MD. MUFTHAKHERUL ISLAM MIRAZ — GitHub Profile README
-     Ethical Hacker · AI Artisan · Builder
+     Ethical Hacker · AI Builder · Security Engineer
+     Last major refresh: 2026-03-30
      ============================================================ -->
 
-<!-- Banner: light / dark mode aware -->
 <p align="center">
-  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-light.png#gh-light-mode-only"
-       alt="MD. Mufthakherul Islam Miraz — Banner" width="100%" />
-  <img src="https://github.com/mufthakherul/mufthakherul/blob/main/assets/banner-dark.png#gh-dark-mode-only"
-       alt="MD. Mufthakherul Islam Miraz — Banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mufthakherul/mufthakherul/main/assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mufthakherul/mufthakherul/main/assets/banner-light.svg" />
+    <img src="https://raw.githubusercontent.com/mufthakherul/mufthakherul/main/assets/banner-light.svg" alt="MD. MUFTHAKHERUL ISLAM MIRAZ — Professional Banner" width="100%" />
+  </picture>
 </p>
 
-<!-- Headline -->
-<h1 align="center">
-  Hey there, I’m <code>Mufthakherul Islam</code>&nbsp;🕵️‍♂️
-</h1>
+<h1 align="center">MD. Mufthakherul Islam Miraz ⚔️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+AI+Artisan+%7C+Builder;Red+Team+%7C+OSINT+%7C+Penetration+Testing;AI+%2B+Automation+%2B+Cybersecurity;Building+SYSTEM+M+%E2%80%94+One+Module+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=780&lines=Cybersecurity+Engineer+%7C+Ethical+Hacker+%7C+AI+Systems+Builder;Red+Team+%2B+OSINT+%2B+Automation+%2B+Secure+Engineering;Building+production-grade+tools+with+real-world+impact;From+local+prototypes+to+scalable+security+platforms" alt="Typing Intro" />
 </p>
 
-<!-- Social badges -->
 <p align="center">
-  <a href="https://github.com/mufthakherul">
-    <img src="https://img.shields.io/github/followers/mufthakherul?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mufthakherul">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:mufthakherul@outlook.com">
-    <img src="https://img.shields.io/badge/Email-mufthakherul%40outlook.com-0078D4?logo=microsoftoutlook&logoColor=white&style=flat-square" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.mufthakherul.me">
-    <img src="https://img.shields.io/badge/Website-mufthakherul.me-22C55E?logo=googlechrome&logoColor=white&style=flat-square" alt="Personal Website" />
-  </a>
-  &nbsp;
-  <a href="https://tryhackme.com/p/mufthakherul">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-CC0000?logo=tryhackme&logoColor=white&style=flat-square" alt="TryHackMe" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mufthakherul">
-    <img src="https://komarev.com/ghpvc/?username=mufthakherul&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  </a>
+  <a href="https://github.com/mufthakherul"><img src="https://img.shields.io/github/followers/mufthakherul?label=Followers&style=social" alt="Followers" /></a>
+  <a href="https://komarev.com/ghpvc/?username=mufthakherul&label=Profile+Views&color=blueviolet&style=flat-square"><img src="https://komarev.com/ghpvc/?username=mufthakherul&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" /></a>
+  <a href="https://linkedin.com/in/mufthakherul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.mufthakherul.me"><img src="https://img.shields.io/badge/Website-mufthakherul.me-22C55E?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:mufthakherul@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="https://tryhackme.com/p/mufthakherul"><img src="https://img.shields.io/badge/TryHackMe-Profile-CC0000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
 ---
 
-## 🧩 About Me
+## 🧠 Executive Snapshot
 
-> *“Security is not a product, but a process.” — Bruce Schneier*
+I’m **MD. MUFTHAKHERUL ISLAM MIRAZ**, a cybersecurity engineer and ethical hacker building AI-augmented security systems. I work from Bangladesh and collaborate globally on projects that blend red-team thinking, practical automation, and production-grade engineering. My "why" is simple: security and AI should be useful in real life—not just impressive in demos—so I focus on tools and platforms that people can actually adopt, trust, and scale.
 
-I’m a **Computer Science & Ethical Hacking student** obsessed with the intersection of **AI, automation, and cybersecurity**. I build practical tools, break things legally, and share what I learn with the community.
+- 🔐 Focus: Red Team methodology, OSINT pipelines, secure software engineering
+- 🤖 Direction: AI-enhanced security analysis, workflow automation, operator tooling
+- 🏗️ Style: modular architecture, production-minded delivery, documentation-first
+- 🌍 Mission: make advanced security knowledge more practical, ethical, and accessible
 
-| 🔍 Focus Area | 📌 Details |
-|---|---|
-| 🛡️ **Cybersecurity** | Red teaming, penetration testing, OSINT, network enumeration |
-| 🤖 **AI & Automation** | LLM pipelines, AI-powered security analysis, workflow bots |
-| 🛠️ **Current Project** | **SYSTEM M** — modular AI & security toolkit |
-| 🎓 **Learning** | Advanced exploit development, threat intelligence, MLSecOps |
-| 🌍 **Mission** | Promoting ethical hacking & AI literacy globally |
+> I don’t just build demos — I build systems that can survive real usage.
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 What I’m Building Now
 
-### 💻 Languages & Scripting
+### 1) SYSTEM M (Core Personal Initiative)
+A modular AI + cybersecurity ecosystem with independent components (OSINT, analysis, scanning, and automation modules) designed for progressive open-source release.
 
+### 2) Cross-Project Security Engineering
+I’m actively shipping and evolving multiple repositories that cover:
+- offline diagnostics,
+- enterprise-scale security platforms,
+- advanced social-collaboration infrastructure,
+- and modern portfolio/product engineering.
+
+---
+
+## 📌 Most Active / Recent Workstreams
+
+> Based on local active repositories and latest commit activity.
+
+| Project | Focus Domain | Stage | Last Active |
+|---|---|---|---|
+| [Inspecta Nexus](https://github.com/mufthakherul/inspecta-nexus) | Offline diagnostics + evidence verification | Active modernization | 2026-03-30 |
+| [CosmicSec (GuardAxisSphere)](https://github.com/mufthakherul/hacker_ai) | Cybersecurity intelligence + hybrid runtime platform | Active architecture evolution | 2026-03-15 |
+| [Milonexa](https://github.com/mufthakherul/Let-s-connect) | Enterprise social-collaboration microservices | Active feature and stability work | 2026-03-05 |
+| [Profile Repository](https://github.com/mufthakherul/mufthakherul) | Public technical brand and ecosystem gateway | Continuous refinement | 2026-03-10 |
+| [Portfolio Platform](https://github.com/mufthakherul/mufthakherul.github.io) | Performance + security-first web presence | Stable, iterative improvements | 2026-01-12 |
+
+---
+
+## 🧩 Flagship Project Highlights
+
+### 🔬 Inspecta Nexus
+**What it is:** An offline-first device diagnostics platform built for trust and transparency.
+
+**Goal:** Help buyers, sellers, and technicians make better decisions using verifiable hardware evidence.
+
+**Vision:** Make diagnostic reporting simple, credible, and shareable across real-world marketplaces and service workflows.
+
+**Built with:** Python, cross-platform automation, report generation, evidence-first workflow design.
+
+### 🌌 CosmicSec / GuardAxisSphere
+**What it is:** A cybersecurity intelligence platform that connects offensive, defensive, and automation workflows.
+
+**Goal:** Give security teams one place to coordinate recon, analysis, response, and research.
+
+**Vision:** A modular, AI-augmented security ecosystem where red team, blue team, SOC, and DevSecOps can collaborate without friction.
+
+**Built with:** Python-first services, hybrid runtime strategy, modular architecture, AI-assisted security operations.
+
+### 🏢 Milonexa
+**What it is:** A modern social-collaboration platform that combines communication, teamwork, and community experiences.
+
+**Goal:** Create a Open Source all-in-one environment where people can connect, collaborate, and build communities at scale.
+
+**Vision:** A next-generation digital social workspace that feels human, fast, and reliable for both public communities and structured teams.
+
+**Built with:** Node.js microservices, React frontend, PostgreSQL/Redis, real-time collaboration and content systems.
+
+### 🌐 Portfolio Platform
+**What it is:** My personal digital HQ for projects, writing, and professional storytelling.
+
+**Goal:** Present my work with clarity, performance, and security while keeping content easy to evolve.
+
+**Vision:** A living portfolio that documents not just what I build, but how I think, iterate, and solve problems.
+
+**Built with:** Next.js, TypeScript, secure middleware, performance-focused UX patterns.
+
+---
+
+## ⚙️ Technical Arsenal
+
+### Languages & Core Development
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square)
 
-### 🛡️ Security & Hacking Tools
-
+### Security & Offensive/Defensive Tooling
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?logo=kalilinux&logoColor=white&style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?logo=nmap&logoColor=white&style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
@@ -83,91 +129,144 @@ I’m a **Computer Science & Ethical Hacking student** obsessed with the interse
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white&style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white&style=flat-square)
 
-### 🤖 AI / ML
-
+### AI / Data / Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-009688?logoColor=white&style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-009688?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=flat-square)
+![Automation](https://img.shields.io/badge/Workflow-Automation-7C3AED?style=flat-square)
 
-### 🧰 Dev & Infrastructure
-
+### Platform / Infra / Delivery
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 
 ---
 
-## 🚀 Featured Project — SYSTEM M
-
-> A modular, extensible **AI & security automation toolkit** built for real-world workflows.
-
-| Module | Description | Status |
-|--------|-------------|--------|
-| 🔍 **OSINT Engine** | Automated reconnaissance and footprinting | 🔨 In Progress |
-| 🤖 **AI Analyst** | LLM-powered threat analysis and log review | 🔨 In Progress |
-| 🛡️ **Vuln Scanner** | Lightweight custom vulnerability discovery | 📋 Planned |
-| 📡 **Network Mapper** | Nmap wrapper with structured output & reporting | 📋 Planned |
-| 💬 **SecBot** | CLI chatbot for security queries and guidance | 📋 Planned |
-
-> 🔗 Stay tuned — SYSTEM M modules will be open-sourced progressively.
-
----
-
-## 🎯 Current Missions
-
-- 🔥 Shipping **SYSTEM M** modules — one at a time
-- 🛡️ Sharpening **advanced enumeration, OSINT & red team** skills
-- 🧪 Experimenting with **AI-powered cybersecurity analysis**
-- 📚 Building **CTF write-ups and learning resources** for the community
-- 🌐 Growing a global network of **ethical hackers and security researchers**
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufthakherul&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufthakherul&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mufthakherul&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mufthakherul&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mufthakherul&theme=github_dark" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mufthakherul&theme=github_dark&utcOffset=6" alt="Productive Time" />
+</p>
+
+---
+
+## 🌟 Project Spotlight Cards
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufthakherul&repo=inspecta-nexus&theme=radical&hide_border=true" alt="Inspecta Nexus Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufthakherul&repo=hacker_ai&theme=radical&hide_border=true" alt="CosmicSec Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufthakherul&repo=Let-s-connect&theme=radical&hide_border=true" alt="Milonexa Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufthakherul&repo=mufthakherul.github.io&theme=radical&hide_border=true" alt="Portfolio Card" />
+</p>
+
+---
+
+## 🧪 Learning Radar (Current)
+
+| Track | Focus | Momentum |
+|---|---|---|
+| Advanced Offensive Security | deeper exploit strategy + realistic attack simulation | High ⚡ |
+| AI-augmented Security Analysis | LLM workflows for triage, threat analysis, and operator tooling | High ⚡ |
+| Secure Platform Engineering | microservices resilience, observability, and reliability | High ⚡ |
+| MLSecOps | safe AI deployment patterns for security products | Medium ↗ |
+
+---
+
+## 🗺️ 2026 Build Trajectory
+
+- Q2: ship stronger public modules from SYSTEM M with practical documentation
+- Q3: deepen AI-assisted security workflows across flagship projects
+- Q4: publish more production-grade tooling and community learning resources
+
+> Long-term goal: build an ecosystem where AI and cybersecurity tools are powerful, ethical, and actually usable in real environments.
+
+---
+
+## 🧭 Operating Principles
+
+- ✅ **Ethical by default** — security research only in legal and authorized scopes
+- ✅ **Build for reliability** — docs, architecture, and maintainability matter
+- ✅ **Think in systems** — not isolated scripts
+- ✅ **Keep learning public** — write, share, iterate, improve
+
+---
+
+## 🚀 Community Boost: Join the Mission
+
+If you want to help scale these projects faster, you’re highly welcome.
+
+| Role | How You Can Help | Join Path |
+|---|---|---|
+| 👨‍💻 Contributors | Build features, improve architecture, fix bugs, optimize performance | Open issues / PRs on project repos |
+| 🧪 Beta Users & Testers | Test early builds, report UX and security issues, suggest improvements | Use releases and submit feedback/issues |
+| 💖 Sponsors | Support infrastructure, tooling, and sustained development time | [Sponsor on GitHub](https://github.com/sponsors/mufthakherul) |
+| 📚 Docs & Community Support | Improve docs, tutorials, onboarding, and learning resources | Help via PRs and Discussions |
+
+### Fast Ways to Contribute Today
+
+- Star repositories you find useful ⭐
+- Open a high-quality issue with reproducible details
+- Submit bug fixes, security hardening improvements, or docs upgrades
+- Share project links with security/dev communities
+
+<p align="center">
+  <a href="https://github.com/mufthakherul?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-181717?logo=github&logoColor=white&style=for-the-badge" alt="Explore Repositories" />
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufthakherul&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mufthakherul&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mufthakherul&theme=radical&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mufthakherul&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <a href="https://github.com/mufthakherul/mufthakherul/issues">
+    <img src="https://img.shields.io/badge/Open-Issue-FF6B6B?logo=github&logoColor=white&style=for-the-badge" alt="Open Issue" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mufthakherul/mufthakherul/discussions">
+    <img src="https://img.shields.io/badge/Join-Discussions-7C3AED?logo=github&logoColor=white&style=for-the-badge" alt="Join Discussions" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/mufthakherul">
+    <img src="https://img.shields.io/badge/Sponsor-Development-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor Development" />
+  </a>
 </p>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Collaboration Zones
 
-I'm open to collaborating on:
+I’m open to collaborating on:
 
-- 🔐 **Security tooling** — scripts, automation, recon frameworks
-- 🤖 **AI + cybersecurity** integrations and research
-- 📖 **Educational content** — CTF write-ups, tutorials, workshops
-- 🕸️ **Threat analysis** — OSINT, dark-web monitoring (educational/ethical only)
+- security tooling and automation frameworks,
+- AI + cybersecurity integration projects,
+- OSINT and threat-intelligence research tooling,
+- educational resources (labs, CTF writeups, practical guides),
+- scalable engineering for security-first products.
 
-> 💬 Have an idea or want to hack together (ethically)? **Reach out anytime!**
+If your idea is ambitious and ethical, we should talk.
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 <p align="center">
   <a href="mailto:mufthakherul@outlook.com">
     <img src="https://img.shields.io/badge/Email-mufthakherul%40outlook.com-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
-  <br/><br/>
+  &nbsp;
   <a href="https://linkedin.com/in/mufthakherul">
     <img src="https://img.shields.io/badge/LinkedIn-mufthakherul-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
@@ -184,5 +283,6 @@ I'm open to collaborating on:
 ---
 
 <p align="center">
-  <i>⚡ If you find my work interesting, give a ⭐ to projects you like — it means a lot!</i>
+  <i>⚡ Engineering the edge of AI and cybersecurity — one high-impact module at a time.</i>
 </p>
+
