@@ -28,6 +28,15 @@
   <a href="https://tryhackme.com/p/mufthakherul"><img src="https://img.shields.io/badge/TryHackMe-Profile-CC0000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
+<p align="center">
+  <a href="#-executive-snapshot">About</a> •
+  <a href="#-most-active--recent-workstreams">Active Work</a> •
+  <a href="#-flagship-project-highlights">Flagships</a> •
+  <a href="#-github-insights">Insights</a> •
+  <a href="#-community-boost-join-the-mission">Join Mission</a> •
+  <a href="#-connect">Contact</a>
+</p>
+
 ---
 
 ## 🧠 Executive Snapshot
@@ -94,7 +103,7 @@ I’m actively shipping and evolving multiple repositories that cover:
 ### 🏢 Milonexa
 **What it is:** A modern social-collaboration platform that combines communication, teamwork, and community experiences.
 
-**Goal:** Create a Open Source all-in-one environment where people can connect, collaborate, and build communities at scale.
+**Goal:** Create an open-source all-in-one environment where people can connect, collaborate, and build communities at scale.
 
 **Vision:** A next-generation digital social workspace that feels human, fast, and reliable for both public communities and structured teams.
 
@@ -148,32 +157,43 @@ I’m actively shipping and evolving multiple repositories that cover:
 
 ## 📈 GitHub Insights
 
+> Reliability-first dashboard using stable public badges and activity sources.
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufthakherul&theme=github_dark" alt="Profile Details" />
+  <img src="https://img.shields.io/github/followers/mufthakherul?style=for-the-badge&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mufthakherul/inspecta-nexus?style=for-the-badge&label=Inspecta%20Stars" alt="Inspecta Stars" />
+  <img src="https://img.shields.io/github/last-commit/mufthakherul/hacker_ai?style=for-the-badge&label=CosmicSec%20Last%20Commit" alt="CosmicSec Last Commit" />
+  <img src="https://img.shields.io/github/issues/mufthakherul/Let-s-connect?style=for-the-badge&label=Milonexa%20Open%20Issues" alt="Milonexa Open Issues" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mufthakherul&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mufthakherul&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://img.shields.io/github/last-commit/mufthakherul/mufthakherul.github.io?style=flat-square&label=Portfolio%20Last%20Commit" alt="Portfolio Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/mufthakherul/inspecta-nexus?style=flat-square&label=Inspecta%20Repo%20Size" alt="Inspecta Repo Size" />
+  <img src="https://img.shields.io/github/license/mufthakherul/hacker_ai?style=flat-square&label=CosmicSec%20License" alt="CosmicSec License" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mufthakherul&theme=github_dark" alt="GitHub Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mufthakherul&theme=github_dark&utcOffset=6" alt="Productive Time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mufthakherul&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ## 🌟 Project Spotlight Cards
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufthakherul&repo=inspecta-nexus&theme=radical&hide_border=true" alt="Inspecta Nexus Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufthakherul&repo=hacker_ai&theme=radical&hide_border=true" alt="CosmicSec Card" />
-</p>
+> Priority repositories with active development and practical production direction.
+
+| Project | Snapshot | Quick Links |
+|---|---|---|
+| **🔬 Inspecta Nexus** | Offline-first diagnostics platform with evidence-verifiable reporting workflows. | [Repository](https://github.com/mufthakherul/inspecta-nexus) · [Issues](https://github.com/mufthakherul/inspecta-nexus/issues) |
+| **🌌 CosmicSec / GuardAxisSphere** | Modular cybersecurity intelligence platform connecting red/blue/SOC workflows. | [Repository](https://github.com/mufthakherul/hacker_ai) · [Issues](https://github.com/mufthakherul/hacker_ai/issues) |
+| **🏢 Milonexa** | Open-source social collaboration ecosystem built for community and scale. | [Repository](https://github.com/mufthakherul/Let-s-connect) · [Issues](https://github.com/mufthakherul/Let-s-connect/issues) |
+| **🌐 Portfolio Platform** | Performance-focused personal platform for projects, writing, and professional storytelling. | [Repository](https://github.com/mufthakherul/mufthakherul.github.io) · [Issues](https://github.com/mufthakherul/mufthakherul.github.io/issues) |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufthakherul&repo=Let-s-connect&theme=radical&hide_border=true" alt="Milonexa Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufthakherul&repo=mufthakherul.github.io&theme=radical&hide_border=true" alt="Portfolio Card" />
+  <a href="https://github.com/mufthakherul/inspecta-nexus"><img src="https://img.shields.io/badge/Inspecta%20Nexus-Open%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="Inspecta Nexus" /></a>
+  <a href="https://github.com/mufthakherul/hacker_ai"><img src="https://img.shields.io/badge/CosmicSec-Open%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="CosmicSec" /></a>
+  <a href="https://github.com/mufthakherul/Let-s-connect"><img src="https://img.shields.io/badge/Milonexa-Open%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="Milonexa" /></a>
+  <a href="https://github.com/mufthakherul/mufthakherul.github.io"><img src="https://img.shields.io/badge/Portfolio-Open%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -196,6 +216,30 @@ I’m actively shipping and evolving multiple repositories that cover:
 - Q4: publish more production-grade tooling and community learning resources
 
 > Long-term goal: build an ecosystem where AI and cybersecurity tools are powerful, ethical, and actually usable in real environments.
+
+---
+
+## 🛠️ Engineering Workflow
+
+My execution workflow across projects follows a consistent lifecycle:
+
+1. **Discovery & Threat-Aware Planning** — define problem scope, constraints, and security implications.
+2. **Architecture & Module Design** — build clean, composable modules with practical extension points.
+3. **Implementation in Iterations** — ship in small, testable increments with visible progress.
+4. **Validation & Hardening** — test reliability, security, and usability before broad release.
+5. **Documentation & Community Feedback** — publish docs/changelogs and refine from real user feedback.
+
+This keeps projects both fast-moving and production-minded.
+
+---
+
+## ✅ Quality, Delivery & Design Principles
+
+- **Security-first defaults:** protect users, data, and operational workflows.
+- **Readable architecture:** prioritize maintainability over clever complexity.
+- **Evidence-driven iteration:** decisions based on logs, testing, and real usage feedback.
+- **Human-centered product thinking:** build tools that are powerful *and* understandable.
+- **Open collaboration model:** invite contributors, testers, and community input early.
 
 ---
 

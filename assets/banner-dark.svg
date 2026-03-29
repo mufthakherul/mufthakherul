@@ -37,7 +37,7 @@
   <g opacity="0.97">
     <rect x="1168" y="70" width="360" height="278" rx="22" fill="#0F172A" fill-opacity="0.7" stroke="#38BDF8" stroke-opacity="0.35"/>
     <text x="1200" y="122" fill="#E2E8F0" font-size="24" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="700">Focus Areas</text>
-    <text x="1200" y="164" fill="#CBD5E1" font-size="19" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="600">• Red Team & OSINT</text>
+    <text x="1200" y="164" fill="#CBD5E1" font-size="19" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="600">• Red Team &amp; OSINT</text>
     <text x="1200" y="198" fill="#CBD5E1" font-size="19" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="600">• AI-Augmented Security</text>
     <text x="1200" y="232" fill="#CBD5E1" font-size="19" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="600">• Secure Platform Engineering</text>
     <text x="1200" y="266" fill="#CBD5E1" font-size="19" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="600">• Community-Driven Learning</text>
