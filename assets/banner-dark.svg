@@ -1,0 +1,113 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617">
+        <animate attributeName="stop-color" values="#020617;#0f172a;#020617" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#1e293b;#0f172a" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Accent -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .typing {
+        overflow: hidden;
+        white-space: nowrap;
+        border-right: 2px solid #22c55e;
+        width: 0;
+        animation: typing 4s steps(40, end) forwards, blink 1s infinite;
+      }
+      @keyframes typing { from { width:0 } to { width:760px } }
+      @keyframes blink { 50% { border-color: transparent } }
+      .float { animation: float 6s ease-in-out infinite; }
+      @keyframes float { 0%,100% { transform: translateY(0)} 50% { transform: translateY(-6px)} }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="430" fill="url(#bg)" rx="20"/>
+
+  <!-- Top Accent -->
+  <rect width="1200" height="3" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Name -->
+  <text x="60" y="110" font-size="44" fill="#e2e8f0" font-family="Segoe UI" font-weight="bold">
+    Md. Mufthakherul Islam Miraz
+  </text>
+
+  <!-- Role (Cybersecurity prioritized) -->
+  <text x="60" y="160" font-size="22" fill="#22c55e" font-family="monospace" class="typing">
+    &gt; Cybersecurity | Developer | AI Systems | Automation
+  </text>
+
+  <!-- Tech Stack (Real Logo Style - Simplified SVG icons) -->
+  <g transform="translate(60,200)">
+    <!-- React -->
+    <circle cx="20" cy="0" r="8" fill="#61dafb"/>
+    <text x="40" y="5" fill="#61dafb" font-size="16" font-family="Segoe UI">React</text>
+
+    <!-- Python -->
+    <circle cx="140" cy="0" r="8" fill="#facc15"/>
+    <text x="160" y="5" fill="#facc15" font-size="16">Python</text>
+
+    <!-- Node -->
+    <circle cx="260" cy="0" r="8" fill="#22c55e"/>
+    <text x="280" y="5" fill="#22c55e" font-size="16">Node.js</text>
+
+    <!-- Security -->
+    <circle cx="400" cy="0" r="8" fill="#ef4444"/>
+    <text x="420" y="5" fill="#ef4444" font-size="16">Security</text>
+
+    <!-- AI -->
+    <circle cx="520" cy="0" r="8" fill="#a78bfa"/>
+    <text x="540" y="5" fill="#a78bfa" font-size="16">AI</text>
+  </g>
+
+  <!-- Core Skills -->
+  <text x="60" y="250" font-size="17" fill="#94a3b8" font-family="Segoe UI">
+    Backend • APIs • Scripting • System Design • Problem Solving
+  </text>
+
+  <!-- Soft Skills -->
+  <text x="60" y="290" font-size="16" fill="#64748b" font-family="Segoe UI">
+    Critical Thinking • Adaptability • Continuous Learning • Collaboration
+  </text>
+
+  <!-- GitHub -->
+  <text x="60" y="330" font-size="17" fill="#22c55e" font-family="Segoe UI">
+    github.com/mufthakherul
+  </text>
+
+  <!-- Visual -->
+  <circle cx="980" cy="215" r="85" stroke="url(#accent)" stroke-width="2" fill="none" filter="url(#glow)" class="float"/>
+
+  <circle cx="980" cy="215" r="55" stroke="#06b6d4" stroke-width="1.5" fill="none">
+    <animateTransform attributeName="transform" type="rotate" from="0 980 215" to="360 980 215" dur="16s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="950" y="225" font-size="34" fill="#22c55e" font-family="monospace">&lt;/&gt;</text>
+
+  <!-- Bottom Accent -->
+  <rect y="427" width="1200" height="3" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
