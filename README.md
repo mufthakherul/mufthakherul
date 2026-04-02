@@ -46,7 +46,10 @@
 
 ## 🧠 Executive Snapshot
 
-I’m **MD. MUFTHAKHERUL ISLAM MIRAZ**, a cybersecurity engineer and ethical hacker building AI-augmented security systems. I work from Bangladesh and collaborate globally on projects that blend red-team thinking, practical automation, and production-grade engineering. My "why" is simple: security and AI should be useful in real life—not just impressive in demos—so I focus on tools and platforms that people can actually adopt, trust, and scale.
+
+I'm a **Computer Science & Technology (CST) student** who loves learning by building real systems.
+My interests span **software engineering, system design, AI, and cybersecurity** — and I try to connect these areas through practical, open work.
+Many of my projects started as **college projects** or academic experiments, but I continue them as **open-source, non-profit learning projects** so anyone can study, test, and improve them.I focus on tools and platforms that people can actually adopt, trust, and scale.
 
 - 🔐 Focus: Red Team methodology, OSINT pipelines, secure software engineering
 - 🤖 Direction: AI-enhanced security analysis, workflow automation, operator tooling
